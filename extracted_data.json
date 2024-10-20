@@ -1,0 +1,1355 @@
+[
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            381,
+            105,
+            1202,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.44,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            536
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            384,
+            106,
+            1202,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.54,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            537
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            385,
+            105,
+            1202,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.51,
+        "bounding_box": [
+            0,
+            447,
+            134,
+            537
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            383,
+            103,
+            1203,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.48,
+        "bounding_box": [
+            0,
+            447,
+            134,
+            540
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            384,
+            105,
+            1203,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.51,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            536
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            384,
+            106,
+            1204,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.52,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            539
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            386,
+            109,
+            1204,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.49,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            542
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            385,
+            108,
+            1204,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.51,
+        "bounding_box": [
+            0,
+            447,
+            132,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            385,
+            106,
+            1203,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.52,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.27,
+        "bounding_box": [
+            1059,
+            501,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            384,
+            107,
+            1203,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.5,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            536
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.26,
+        "bounding_box": [
+            1060,
+            502,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            384,
+            109,
+            1202,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.51,
+        "bounding_box": [
+            0,
+            447,
+            134,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.26,
+        "bounding_box": [
+            1058,
+            501,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            337,
+            123,
+            1200,
+            720
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.48,
+        "bounding_box": [
+            0,
+            447,
+            134,
+            539
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            423,
+            149,
+            1199,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            0,
+            447,
+            134,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.37,
+        "bounding_box": [
+            819,
+            380,
+            997,
+            474
+        ],
+        "extracted_text": "_\u2014"
+    },
+    {
+        "class": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            426,
+            153,
+            1200,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.46,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            537
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            428,
+            155,
+            1198,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            0,
+            447,
+            134,
+            542
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.38,
+        "bounding_box": [
+            822,
+            380,
+            991,
+            468
+        ],
+        "extracted_text": "> *"
+    },
+    {
+        "class": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            428,
+            155,
+            1202,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            535
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.41,
+        "bounding_box": [
+            819,
+            379,
+            993,
+            471
+        ],
+        "extracted_text": "\u2014,"
+    },
+    {
+        "class": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            429,
+            156,
+            1202,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.49,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            537
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.4,
+        "bounding_box": [
+            820,
+            380,
+            994,
+            472
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            427,
+            157,
+            1201,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            0,
+            447,
+            132,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.45,
+        "bounding_box": [
+            819,
+            379,
+            994,
+            471
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            428,
+            157,
+            1198,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.52,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            537
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.43,
+        "bounding_box": [
+            822,
+            380,
+            994,
+            472
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            428,
+            155,
+            1199,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.49,
+        "bounding_box": [
+            824,
+            380,
+            993,
+            469
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "chair",
+        "confidence": 0.49,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.31,
+        "bounding_box": [
+            579,
+            414,
+            664,
+            481
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            431,
+            149,
+            1198,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.5,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            539
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            820,
+            380,
+            993,
+            470
+        ],
+        "extracted_text": "i"
+    },
+    {
+        "class": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            431,
+            153,
+            1198,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.53,
+        "bounding_box": [
+            818,
+            380,
+            991,
+            468
+        ],
+        "extracted_text": "> *"
+    },
+    {
+        "class": "chair",
+        "confidence": 0.49,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            539
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.27,
+        "bounding_box": [
+            578,
+            414,
+            664,
+            482
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            428,
+            153,
+            1202,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.51,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            537
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.5,
+        "bounding_box": [
+            817,
+            380,
+            993,
+            471
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "chair",
+        "confidence": 0.27,
+        "bounding_box": [
+            578,
+            414,
+            664,
+            482
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            429,
+            154,
+            1200,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.48,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            539
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.44,
+        "bounding_box": [
+            818,
+            380,
+            995,
+            472
+        ],
+        "extracted_text": "i"
+    },
+    {
+        "class": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            429,
+            154,
+            1202,
+            717
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            0,
+            447,
+            132,
+            542
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.46,
+        "bounding_box": [
+            818,
+            380,
+            994,
+            470
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            428,
+            153,
+            1201,
+            717
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.44,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            540
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.38,
+        "bounding_box": [
+            818,
+            379,
+            993,
+            471
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            430,
+            154,
+            1201,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            542
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.43,
+        "bounding_box": [
+            817,
+            379,
+            995,
+            471
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            429,
+            155,
+            1201,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            818,
+            379,
+            994,
+            471
+        ],
+        "extracted_text": "a"
+    },
+    {
+        "class": "chair",
+        "confidence": 0.45,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            540
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            433,
+            157,
+            1197,
+            717
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.54,
+        "bounding_box": [
+            820,
+            380,
+            994,
+            472
+        ],
+        "extracted_text": "\u2014"
+    },
+    {
+        "class": "chair",
+        "confidence": 0.48,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.26,
+        "bounding_box": [
+            579,
+            414,
+            665,
+            482
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            427,
+            157,
+            1197,
+            717
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.51,
+        "bounding_box": [
+            825,
+            380,
+            995,
+            473
+        ],
+        "extracted_text": "J"
+    },
+    {
+        "class": "chair",
+        "confidence": 0.47,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            539
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            433,
+            157,
+            1197,
+            717
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.49,
+        "bounding_box": [
+            826,
+            380,
+            995,
+            473
+        ],
+        "extracted_text": "J"
+    },
+    {
+        "class": "chair",
+        "confidence": 0.46,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.27,
+        "bounding_box": [
+            579,
+            414,
+            665,
+            482
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            392,
+            156,
+            1202,
+            718
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.42,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            540
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.3,
+        "bounding_box": [
+            834,
+            381,
+            991,
+            462
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            378,
+            114,
+            1201,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.54,
+        "bounding_box": [
+            0,
+            447,
+            134,
+            533
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.28,
+        "bounding_box": [
+            1067,
+            503,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            450,
+            118,
+            1208,
+            714
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.52,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            535
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.42,
+        "bounding_box": [
+            857,
+            370,
+            984,
+            432
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.29,
+        "bounding_box": [
+            1065,
+            502,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            421,
+            118,
+            1214,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.46,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            536
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.29,
+        "bounding_box": [
+            1066,
+            503,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            422,
+            119,
+            1214,
+            714
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.46,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            536
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.3,
+        "bounding_box": [
+            858,
+            370,
+            980,
+            425
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.26,
+        "bounding_box": [
+            1067,
+            503,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            423,
+            113,
+            1216,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.48,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.41,
+        "bounding_box": [
+            864,
+            370,
+            982,
+            429
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            426,
+            114,
+            1214,
+            716
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.5,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            536
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.37,
+        "bounding_box": [
+            863,
+            370,
+            982,
+            430
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.29,
+        "bounding_box": [
+            1064,
+            502,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            425,
+            110,
+            1211,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.5,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            532
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.36,
+        "bounding_box": [
+            862,
+            370,
+            982,
+            431
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.3,
+        "bounding_box": [
+            1064,
+            502,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            423,
+            112,
+            1211,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.5,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            538
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.41,
+        "bounding_box": [
+            860,
+            370,
+            982,
+            431
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.34,
+        "bounding_box": [
+            1064,
+            502,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            503,
+            111,
+            1210,
+            717
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "chair",
+        "confidence": 0.51,
+        "bounding_box": [
+            0,
+            447,
+            133,
+            533
+        ],
+        "extracted_text": ""
+    },
+    {
+        "class": "diningtable",
+        "confidence": 0.37,
+        "bounding_box": [
+            1069,
+            504,
+            1279,
+            715
+        ],
+        "extracted_text": ""
+    }
+]
