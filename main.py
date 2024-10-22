@@ -14,7 +14,7 @@ cap.set(4, 720)
 # Load YOLO model
 model = YOLO('../yolo11n.pt')
 
-# Set path for Tesseract executable (Update the path as per your installation)
+
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 classNames = [
